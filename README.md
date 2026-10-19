@@ -36,7 +36,7 @@ The dashboard focuses on the following business questions:
 
 The dashboard presents key sales metrics through charts, summary visuals, and interactive filters.
 
-- **Dashboard Reference:** [View Dashboard Image](https://github.com/ritikbh193/Data-Analytics-with-Excel/blob/main/Dashboard_Image.png)
+- **Dashboard Reference:** [View Dashboard Image](IMG_1460.png)
 
 ## Key Insights
 
