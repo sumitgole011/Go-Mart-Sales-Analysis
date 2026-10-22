@@ -1,5 +1,16 @@
 # Go Mart Sales Analysis | Interactive Excel Dashboard
 
+## Recruiter quick view
+
+**Business goal:** Understand sales trends, order status, customer segments and channel/category performance using an Excel dashboard.
+
+**Deliverable available here:** A dashboard image (`Dashboard.png`) and project documentation. **An editable Excel workbook is not currently included in the repository root**, so the interactive filters and formulas cannot be independently inspected from this repository alone.
+
+**Data provenance:** The README links to the original third-party sales dataset. Dataset credit is retained; this portfolio project presents analysis and dashboard work rather than claiming ownership of the source data.
+
+**Recommended next evidence:** Publish an editable workbook where redistribution is permitted, document pivot tables/charts and formulas, and add two or three quantified business findings with traceable calculations.
+
+
 ## Project Overview
 
 The objective of the **Go Mart Sales Analysis** project is to analyze the store's annual sales data for 2022 and develop an interactive dashboard using Microsoft Excel. The dashboard helps identify customer purchasing patterns, sales trends, and high-performing product categories and sales channels to support better business decisions for future growth.
