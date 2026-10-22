@@ -47,7 +47,9 @@ The dashboard focuses on the following business questions:
 
 The dashboard presents key sales metrics through charts, summary visuals, and interactive filters.
 
-- **Dashboard Reference:** [View Dashboard Image](https://github.com/sumitgole011/Go-Mart-Sales-Analysis/blob/main/Dashboard.png)
+![Go Mart Excel dashboard preview](Dashboard.png)
+
+[Open full-resolution dashboard image](Dashboard.png)
 ## Key Insights
 
 Based on the analysis of the supplied dataset:
